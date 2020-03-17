@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\edifact\ABM Developer Test\bin\Debug\netcoreapp3.1\ABM Developer Test.exe
+C:\Users\richa\source\repos\edifact\ABM Developer Test\bin\Debug\netcoreapp3.1\ABM Developer Test.deps.json
+C:\Users\richa\source\repos\edifact\ABM Developer Test\bin\Debug\netcoreapp3.1\ABM Developer Test.runtimeconfig.json
+C:\Users\richa\source\repos\edifact\ABM Developer Test\bin\Debug\netcoreapp3.1\ABM Developer Test.runtimeconfig.dev.json
+C:\Users\richa\source\repos\edifact\ABM Developer Test\bin\Debug\netcoreapp3.1\ABM Developer Test.dll
+C:\Users\richa\source\repos\edifact\ABM Developer Test\bin\Debug\netcoreapp3.1\ABM Developer Test.pdb
+C:\Users\richa\source\repos\edifact\ABM Developer Test\obj\Debug\netcoreapp3.1\ABM Developer Test.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\edifact\ABM Developer Test\obj\Debug\netcoreapp3.1\ABM Developer Test.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\edifact\ABM Developer Test\obj\Debug\netcoreapp3.1\ABM Developer Test.AssemblyInfo.cs
+C:\Users\richa\source\repos\edifact\ABM Developer Test\obj\Debug\netcoreapp3.1\ABM Developer Test.dll
+C:\Users\richa\source\repos\edifact\ABM Developer Test\obj\Debug\netcoreapp3.1\ABM Developer Test.pdb
